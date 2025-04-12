@@ -2,6 +2,7 @@
 
 This project is a Portfolio Analytics Dashboard that allows users to monitor their investment performance. It includes both a client-side application built with React and a server-side application built with Node.js and Express.
 
+we are 
 ## Table of Contents
 
 - [Overview](#overview)
